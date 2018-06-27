@@ -1,0 +1,2 @@
+# import Query.*, Mutation.* from "../node_modules/@volst/prisma-auth/schema.graphql"
+

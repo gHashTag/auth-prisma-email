@@ -1,0 +1,2 @@
+endpoint: https://eu1.prisma.sh/dimka-vasilyev-133e06/hello-world/dev
+datamodel: datamodel.graphql
